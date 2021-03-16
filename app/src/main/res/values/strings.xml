@@ -1,0 +1,4 @@
+<resources>
+    ...
+    <string name="chat_button">Chat</string>
+</resources>
