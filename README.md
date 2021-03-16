@@ -14,18 +14,19 @@ At the same time, I interviewed and gathered 5people's opinion and feedback of p
 The online prayer system provides all users who are interested in temple culture.
 
 # Product Goal
-Help our customers (temples) build a customer database.
-Help our customers (temples) increase their income.
-Help our customers (temple) to establish a private appointment form, so that prayer can still go to the temple safely during the pandemic period.
+Help our cliensts (temples) build a customer database. <br>
+Help our clients (temples) increase their income. <br>
+Help our clients (temple) to establish a private appointment form, so that prayer can still go to the temple safely during the pandemic period. <br>
 
 
 # Performance Measure
-APP daily  activity rate
-App Retention rate
-feedback from end-users
-Conversion rate
-Whether our client's income has increased or not
-Can our customers create more complete user information
+APP daily  activity rate <br>
+App Retention rate <br>
+App return rate <br>
+Feedback from end-users <br>
+Conversion rate <br>
+Whether our client's income has increased or not <br>
+Can our clients create more complete user information <br>
 
 # Obstacles in exercise
 
